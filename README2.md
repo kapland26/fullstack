@@ -1,4 +1,4 @@
-create-raect-app
+create-react-app
 
 Backend:
 $ npm i express express-session massive passport passport-auth0 dotenv
